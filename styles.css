@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(206, 204, 204);
+}
+
+header {
+    background: white;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.post {
+    background-color: white;
+    margin-top: 40px;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-style: lucida;
+}
+
+.post-footer {
+   margin-left: 20px;
+   display: flex;
+   align-items: center;
+   font-style: lucida;
+}
+
+.post h2 {
+    padding: 20px 20px;
+    margin: 0;
+}
+
+.post span {
+    padding: 20px 20px;
+    margin: 0;
+}
+
+span {
+    color: rgb(134, 134, 134);
+}
+
+img {
+    width: 100%;
+}
